@@ -36,27 +36,9 @@ The primary objective of the Smart Resume Analyzer is to provide job seekers wit
 4. **Resume Enhancement Tips:**
    - Real-time feedback and suggestions are provided to users for improving their resumes, covering areas such as objective statements, achievements, and additional sections.
 
-## Getting Started 🚀
-
-1. Clone the repository:
-
-2. Install dependencies:
-
-3. Configure database:
-- Create a MySQL database and update the database configuration in `config.py`.
-
-4. Run the application:
-
-5. Access the application:
-Open your web browser and go to `http://localhost:8501`.
-
 ## How to Use 📌
 
 1. Upload your resume in PDF format.
 2. Receive personalized skill recommendations and course suggestions.
 3. Get real-time feedback and tips for resume enhancement.
 4. Explore the admin dashboard for in-depth analysis and insights.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
