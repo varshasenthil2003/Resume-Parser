@@ -36,9 +36,6 @@ The primary objective of the Smart Resume Analyzer is to provide job seekers wit
 4. **Resume Enhancement Tips:**
    - Real-time feedback and suggestions are provided to users for improving their resumes, covering areas such as objective statements, achievements, and additional sections.
 
-5. **Admin Dashboard:**
-   - Authorized administrators access a dashboard to view user data, analysis results, recommended skills/courses, and overall resume scores. Data visualization tools aid in understanding user demographics and preferences.
-
 ## Getting Started 🚀
 
 1. Clone the repository:
